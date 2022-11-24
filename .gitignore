@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+
+levelization
+.DS_Store
